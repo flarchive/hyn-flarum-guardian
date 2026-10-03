@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of hyn/flarum-guardian.** Not for installation: use [Packagist](https://packagist.org/packages/hyn/flarum-guardian) or the [upstream repository](https://github.com/hyn/flarum-guardian).
 
-**0** versions archived · Latest: [`0.1.3-beta.3`](https://github.com/flarchive/hyn-flarum-guardian/tree/archive/v0.1.3-beta.3) · License: `MIT` · Flarum: `^0.1.0-beta.3`
+**7** versions archived · Latest: [`0.1.3-beta.3`](https://github.com/flarchive/hyn-flarum-guardian/tree/archive/v0.1.3-beta.3) (stable: [`0.1.0`](https://github.com/flarchive/hyn-flarum-guardian/tree/archive/v0.1.0)) · License: `MIT` · Flarum: `^0.1.0-beta.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2015-12-01 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/hyn-flarum-guardian/tree/archive/v0.1.0) |
+| `0.1.0-beta` | 2015-12-01 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/hyn-flarum-guardian/tree/archive/v0.1.0-beta) |
+| `0.1.1` | 2015-12-15 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/hyn-flarum-guardian/tree/archive/v0.1.1) |
+| `0.1.2` | 2015-12-16 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/hyn-flarum-guardian/tree/archive/v0.1.2) |
+| `0.1.3-beta.1` | 2015-12-16 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/hyn-flarum-guardian/tree/archive/v0.1.3-beta.1) |
+| `0.1.3-beta.2` | 2015-12-16 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/hyn-flarum-guardian/tree/archive/v0.1.3-beta.2) |
+| `0.1.3-beta.3` | 2015-12-16 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/hyn-flarum-guardian/tree/archive/v0.1.3-beta.3) |
 
 Catalog entry: [packages/hyn-flarum-guardian.json](https://github.com/flarchive/archive-index/blob/main/packages/hyn-flarum-guardian.json)
 
